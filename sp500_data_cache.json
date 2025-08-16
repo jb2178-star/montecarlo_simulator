@@ -1,0 +1,2507 @@
+{
+  "IP": {
+    "sector": "Materials",
+    "volatility": 0.3732108782840037,
+    "last_close": 48.36000061035156
+  },
+  "TGT": {
+    "sector": "Consumer Staples",
+    "volatility": 0.421667159229888,
+    "last_close": 106.26000213623047
+  },
+  "WTW": {
+    "sector": "Financials",
+    "volatility": 0.207835219342193,
+    "last_close": 330.0
+  },
+  "LW": {
+    "sector": "Consumer Staples",
+    "volatility": 0.4389264329318177,
+    "last_close": 52.970001220703125
+  },
+  "RJF": {
+    "sector": "Financials",
+    "volatility": 0.28658042930139915,
+    "last_close": 168.3699951171875
+  },
+  "HLT": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.2516717076590334,
+    "last_close": 268.7699890136719
+  },
+  "CDW": {
+    "sector": "Information Technology",
+    "volatility": 0.328949115429238,
+    "last_close": 164.05999755859375
+  },
+  "INTU": {
+    "sector": "Information Technology",
+    "volatility": 0.32290288102007003,
+    "last_close": 713.47998046875
+  },
+  "IVZ": {
+    "sector": "Financials",
+    "volatility": 0.4002807725159069,
+    "last_close": 21.040000915527344
+  },
+  "MLM": {
+    "sector": "Materials",
+    "volatility": 0.24781598838656324,
+    "last_close": 615.4299926757812
+  },
+  "AFL": {
+    "sector": "Financials",
+    "volatility": 0.2235409936705425,
+    "last_close": 103.55000305175781
+  },
+  "PODD": {
+    "sector": "Health Care",
+    "volatility": 0.376857743172276,
+    "last_close": 309.6300048828125
+  },
+  "TRMB": {
+    "sector": "Information Technology",
+    "volatility": 0.33205733558183786,
+    "last_close": 83.61000061035156
+  },
+  "IQV": {
+    "sector": "Health Care",
+    "volatility": 0.3756328863116471,
+    "last_close": 185.91000366210938
+  },
+  "QCOM": {
+    "sector": "Information Technology",
+    "volatility": 0.38496741590132977,
+    "last_close": 153.72999572753906
+  },
+  "DG": {
+    "sector": "Consumer Staples",
+    "volatility": 0.5211392051939069,
+    "last_close": 115.19000244140625
+  },
+  "SWKS": {
+    "sector": "Information Technology",
+    "volatility": 0.5120815224812694,
+    "last_close": 71.69000244140625
+  },
+  "CLX": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21127299544581682,
+    "last_close": 122.81999969482422
+  },
+  "DOV": {
+    "sector": "Industrials",
+    "volatility": 0.2680757402475082,
+    "last_close": 177.99000549316406
+  },
+  "INTC": {
+    "sector": "Information Technology",
+    "volatility": 0.5744553259929182,
+    "last_close": 21.809999465942383
+  },
+  "UPS": {
+    "sector": "Industrials",
+    "volatility": 0.32457371079966274,
+    "last_close": 87.43000030517578
+  },
+  "MTB": {
+    "sector": "Financials",
+    "volatility": 0.2944084061384099,
+    "last_close": 191.0800018310547
+  },
+  "WDAY": {
+    "sector": "Information Technology",
+    "volatility": 0.3627144981622289,
+    "last_close": 214.60000610351562
+  },
+  "GIS": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21939099225555098,
+    "last_close": 49.15999984741211
+  },
+  "NOW": {
+    "sector": "Information Technology",
+    "volatility": 0.3915228886102503,
+    "last_close": 853.4299926757812
+  },
+  "RF": {
+    "sector": "Financials",
+    "volatility": 0.3062195111422746,
+    "last_close": 25.329999923706055
+  },
+  "LUV": {
+    "sector": "Industrials",
+    "volatility": 0.4108969805085129,
+    "last_close": 30.719999313354492
+  },
+  "ISRG": {
+    "sector": "Health Care",
+    "volatility": 0.3243816219796375,
+    "last_close": 478.19000244140625
+  },
+  "AMT": {
+    "sector": "Real Estate",
+    "volatility": 0.2676467216757736,
+    "last_close": 204.6199951171875
+  },
+  "VZ": {
+    "sector": "Communication Services",
+    "volatility": 0.21811289737377162,
+    "last_close": 43.25
+  },
+  "PM": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2678031739739331,
+    "last_close": 168.60000610351562
+  },
+  "PGR": {
+    "sector": "Financials",
+    "volatility": 0.2428876067607024,
+    "last_close": 243.0399932861328
+  },
+  "ULTA": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.386066783860328,
+    "last_close": 516.02001953125
+  },
+  "JBL": {
+    "sector": "Information Technology",
+    "volatility": 0.38341408014451683,
+    "last_close": 230.30999755859375
+  },
+  "ADSK": {
+    "sector": "Information Technology",
+    "volatility": 0.2804293125958031,
+    "last_close": 283.0299987792969
+  },
+  "AIG": {
+    "sector": "Financials",
+    "volatility": 0.23427679255882525,
+    "last_close": 78.4800033569336
+  },
+  "HWM": {
+    "sector": "Industrials",
+    "volatility": 0.35675931051568893,
+    "last_close": 180.89999389648438
+  },
+  "EQIX": {
+    "sector": "Real Estate",
+    "volatility": 0.27232967657845597,
+    "last_close": 787.3200073242188
+  },
+  "STE": {
+    "sector": "Health Care",
+    "volatility": 0.2252822784636351,
+    "last_close": 243.75999450683594
+  },
+  "DOC": {
+    "sector": "Real Estate",
+    "volatility": 0.23531539445488472,
+    "last_close": 17.0
+  },
+  "HAS": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3522856343729449,
+    "last_close": 78.25
+  },
+  "ROST": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.2645966817896235,
+    "last_close": 148.0
+  },
+  "SPG": {
+    "sector": "Real Estate",
+    "volatility": 0.2634912298921705,
+    "last_close": 169.22000122070312
+  },
+  "ALGN": {
+    "sector": "Health Care",
+    "volatility": 0.6055981203112741,
+    "last_close": 140.49000549316406
+  },
+  "GE": {
+    "sector": "Industrials",
+    "volatility": 0.3297610070979693,
+    "last_close": 279.6300048828125
+  },
+  "TECH": {
+    "sector": "Health Care",
+    "volatility": 0.4229028437742317,
+    "last_close": 52.83000183105469
+  },
+  "BLK": {
+    "sector": "Financials",
+    "volatility": 0.26712712072615197,
+    "last_close": 1159.6099853515625
+  },
+  "MMC": {
+    "sector": "Financials",
+    "volatility": 0.1823926701129981,
+    "last_close": 204.41000366210938
+  },
+  "SYK": {
+    "sector": "Health Care",
+    "volatility": 0.21109344252306575,
+    "last_close": 376.6099853515625
+  },
+  "CBRE": {
+    "sector": "Real Estate",
+    "volatility": 0.30503033611731667,
+    "last_close": 156.1199951171875
+  },
+  "EPAM": {
+    "sector": "Information Technology",
+    "volatility": 0.41310564528781085,
+    "last_close": 152.92999267578125
+  },
+  "PNR": {
+    "sector": "Industrials",
+    "volatility": 0.2697562581554116,
+    "last_close": 106.12999725341797
+  },
+  "DECK": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.5485414832047913,
+    "last_close": 103.73999786376953
+  },
+  "IEX": {
+    "sector": "Industrials",
+    "volatility": 0.2996548108764563,
+    "last_close": 163.32000732421875
+  },
+  "PH": {
+    "sector": "Industrials",
+    "volatility": 0.3159047949085624,
+    "last_close": 752.0399780273438
+  },
+  "REGN": {
+    "sector": "Health Care",
+    "volatility": 0.3968067323076247,
+    "last_close": 556.5499877929688
+  },
+  "CPT": {
+    "sector": "Real Estate",
+    "volatility": 0.21872486262097318,
+    "last_close": 104.8499984741211
+  },
+  "LII": {
+    "sector": "Industrials",
+    "volatility": 0.3322161440490304,
+    "last_close": 590.52001953125
+  },
+  "TMO": {
+    "sector": "Health Care",
+    "volatility": 0.2997261956963834,
+    "last_close": 477.4100036621094
+  },
+  "CTAS": {
+    "sector": "Industrials",
+    "volatility": 0.2531001096117263,
+    "last_close": 223.30999755859375
+  },
+  "DDOG": {
+    "sector": "Information Technology",
+    "volatility": 0.422712232167097,
+    "last_close": 128.9600067138672
+  },
+  "EIX": {
+    "sector": "Utilities",
+    "volatility": 0.33960880619597805,
+    "last_close": 55.959999084472656
+  },
+  "PSX": {
+    "sector": "Energy",
+    "volatility": 0.36287482667980264,
+    "last_close": 120.04000091552734
+  },
+  "TJX": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.18780553302804576,
+    "last_close": 133.38999938964844
+  },
+  "ETN": {
+    "sector": "Industrials",
+    "volatility": 0.37055678485914106,
+    "last_close": 363.29998779296875
+  },
+  "ALLE": {
+    "sector": "Industrials",
+    "volatility": 0.24528248793326546,
+    "last_close": 166.42999267578125
+  },
+  "PPG": {
+    "sector": "Materials",
+    "volatility": 0.2850319232948937,
+    "last_close": 108.75
+  },
+  "CCL": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.47459505169752103,
+    "last_close": 29.639999389648438
+  },
+  "COIN": {
+    "sector": "Financials",
+    "volatility": 0.8481431889936576,
+    "last_close": 322.6199951171875
+  },
+  "STT": {
+    "sector": "Financials",
+    "volatility": 0.2770762914135658,
+    "last_close": 111.41999816894531
+  },
+  "ED": {
+    "sector": "Utilities",
+    "volatility": 0.19686790775105822,
+    "last_close": 103.69000244140625
+  },
+  "DASH": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.37994819568026084,
+    "last_close": 264.32000732421875
+  },
+  "FTV": {
+    "sector": "Industrials",
+    "volatility": 0.26426301266884544,
+    "last_close": 47.650001525878906
+  },
+  "CHRW": {
+    "sector": "Industrials",
+    "volatility": 0.3124826016915884,
+    "last_close": 118.7699966430664
+  },
+  "RSG": {
+    "sector": "Industrials",
+    "volatility": 0.1839549593913189,
+    "last_close": 233.52999877929688
+  },
+  "LNT": {
+    "sector": "Utilities",
+    "volatility": 0.19115216009048036,
+    "last_close": 64.80000305175781
+  },
+  "AAPL": {
+    "sector": "Information Technology",
+    "volatility": 0.31893139979186425,
+    "last_close": 229.64999389648438
+  },
+  "MU": {
+    "sector": "Information Technology",
+    "volatility": 0.6171549760073394,
+    "last_close": 127.75
+  },
+  "GOOGL": {
+    "sector": "Communication Services",
+    "volatility": 0.3113047641390395,
+    "last_close": 203.33999633789062
+  },
+  "MS": {
+    "sector": "Financials",
+    "volatility": 0.332331587834063,
+    "last_close": 147.2899932861328
+  },
+  "BAX": {
+    "sector": "Health Care",
+    "volatility": 0.4123822162721795,
+    "last_close": 23.979999542236328
+  },
+  "CTVA": {
+    "sector": "Materials",
+    "volatility": 0.2517684445321894,
+    "last_close": 71.02999877929688
+  },
+  "MSI": {
+    "sector": "Information Technology",
+    "volatility": 0.22468664624499296,
+    "last_close": 471.20001220703125
+  },
+  "BX": {
+    "sector": "Financials",
+    "volatility": 0.38206481946093324,
+    "last_close": 173.74000549316406
+  },
+  "EXPD": {
+    "sector": "Industrials",
+    "volatility": 0.26158475101142076,
+    "last_close": 120.72000122070312
+  },
+  "INVH": {
+    "sector": "Real Estate",
+    "volatility": 0.21203593896253617,
+    "last_close": 30.030000686645508
+  },
+  "CPAY": {
+    "sector": "Financials",
+    "volatility": 0.35171518171652694,
+    "last_close": 309.3699951171875
+  },
+  "LLY": {
+    "sector": "Health Care",
+    "volatility": 0.39993733078648896,
+    "last_close": 639.4299926757812
+  },
+  "TROW": {
+    "sector": "Financials",
+    "volatility": 0.287036489379904,
+    "last_close": 107.63999938964844
+  },
+  "SBAC": {
+    "sector": "Real Estate",
+    "volatility": 0.25211818857306667,
+    "last_close": 217.99000549316406
+  },
+  "BRO": {
+    "sector": "Financials",
+    "volatility": 0.23840499498257242,
+    "last_close": 94.76000213623047
+  },
+  "A": {
+    "sector": "Health Care",
+    "volatility": 0.30330073884186004,
+    "last_close": 117.31999969482422
+  },
+  "EXPE": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4129770097769771,
+    "last_close": 203.19000244140625
+  },
+  "NTAP": {
+    "sector": "Information Technology",
+    "volatility": 0.38231981011115,
+    "last_close": 107.77999877929688
+  },
+  "PYPL": {
+    "sector": "Financials",
+    "volatility": 0.3773602436790991,
+    "last_close": 67.97000122070312
+  },
+  "EFX": {
+    "sector": "Industrials",
+    "volatility": 0.34367215655971667,
+    "last_close": 240.99000549316406
+  },
+  "MAS": {
+    "sector": "Industrials",
+    "volatility": 0.29661219955771234,
+    "last_close": 71.20999908447266
+  },
+  "KEY": {
+    "sector": "Financials",
+    "volatility": 0.3472910930815435,
+    "last_close": 17.90999984741211
+  },
+  "LH": {
+    "sector": "Health Care",
+    "volatility": 0.22939375593434735,
+    "last_close": 269.30999755859375
+  },
+  "NVDA": {
+    "sector": "Information Technology",
+    "volatility": 0.5267238180215709,
+    "last_close": 183.16000366210938
+  },
+  "CSGP": {
+    "sector": "Real Estate",
+    "volatility": 0.3238351855552074,
+    "last_close": 88.45999908447266
+  },
+  "FIS": {
+    "sector": "Financials",
+    "volatility": 0.2831851996242818,
+    "last_close": 71.76000213623047
+  },
+  "OTIS": {
+    "sector": "Industrials",
+    "volatility": 0.25272604951410593,
+    "last_close": 88.1500015258789
+  },
+  "CDNS": {
+    "sector": "Information Technology",
+    "volatility": 0.4088086381986557,
+    "last_close": 353.6099853515625
+  },
+  "EVRG": {
+    "sector": "Utilities",
+    "volatility": 0.16505038596607452,
+    "last_close": 72.62999725341797
+  },
+  "CF": {
+    "sector": "Materials",
+    "volatility": 0.32984379112356516,
+    "last_close": 82.9000015258789
+  },
+  "NOC": {
+    "sector": "Industrials",
+    "volatility": 0.27278218984801517,
+    "last_close": 580.7999877929688
+  },
+  "AMAT": {
+    "sector": "Information Technology",
+    "volatility": 0.44235289549764323,
+    "last_close": 188.4499969482422
+  },
+  "TMUS": {
+    "sector": "Communication Services",
+    "volatility": 0.2824054936886711,
+    "last_close": 252.27999877929688
+  },
+  "AES": {
+    "sector": "Utilities",
+    "volatility": 0.4916609520115855,
+    "last_close": 12.90999984741211
+  },
+  "LKQ": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3421811472235945,
+    "last_close": 30.1200008392334
+  },
+  "PNW": {
+    "sector": "Utilities",
+    "volatility": 0.17634676798273094,
+    "last_close": 92.44999694824219
+  },
+  "EBAY": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.33206089394513605,
+    "last_close": 97.05999755859375
+  },
+  "EXC": {
+    "sector": "Utilities",
+    "volatility": 0.1903634514775658,
+    "last_close": 44.61000061035156
+  },
+  "LIN": {
+    "sector": "Materials",
+    "volatility": 0.18501449775950363,
+    "last_close": 473.2300109863281
+  },
+  "MSFT": {
+    "sector": "Information Technology",
+    "volatility": 0.24806294548906757,
+    "last_close": 529.239990234375
+  },
+  "WSM": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.5043923496779628,
+    "last_close": 206.97000122070312
+  },
+  "IBM": {
+    "sector": "Information Technology",
+    "volatility": 0.2882977923128125,
+    "last_close": 234.77000427246094
+  },
+  "ZBH": {
+    "sector": "Health Care",
+    "volatility": 0.2803991516289794,
+    "last_close": 101.81999969482422
+  },
+  "XOM": {
+    "sector": "Energy",
+    "volatility": 0.24371695355413994,
+    "last_close": 106.12999725341797
+  },
+  "JNJ": {
+    "sector": "Health Care",
+    "volatility": 0.1930188432869837,
+    "last_close": 172.77999877929688
+  },
+  "EXR": {
+    "sector": "Real Estate",
+    "volatility": 0.26758622320790554,
+    "last_close": 135.5399932861328
+  },
+  "CAT": {
+    "sector": "Industrials",
+    "volatility": 0.29873042643012826,
+    "last_close": 412.7099914550781
+  },
+  "COO": {
+    "sector": "Health Care",
+    "volatility": 0.3357537751067696,
+    "last_close": 72.69000244140625
+  },
+  "PEG": {
+    "sector": "Utilities",
+    "volatility": 0.22795825343022147,
+    "last_close": 87.83000183105469
+  },
+  "URI": {
+    "sector": "Industrials",
+    "volatility": 0.3700414558613176,
+    "last_close": 916.9500122070312
+  },
+  "MDT": {
+    "sector": "Health Care",
+    "volatility": 0.21122522928669435,
+    "last_close": 92.08000183105469
+  },
+  "EW": {
+    "sector": "Health Care",
+    "volatility": 0.25593375726152573,
+    "last_close": 76.93000030517578
+  },
+  "LOW": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.24006690005372175,
+    "last_close": 244.8699951171875
+  },
+  "PANW": {
+    "sector": "Information Technology",
+    "volatility": 0.36869369934303414,
+    "last_close": 175.39999389648438
+  },
+  "SPGI": {
+    "sector": "Financials",
+    "volatility": 0.21983715463475803,
+    "last_close": 559.0599975585938
+  },
+  "DGX": {
+    "sector": "Health Care",
+    "volatility": 0.22243446547789789,
+    "last_close": 178.67999267578125
+  },
+  "WMT": {
+    "sector": "Consumer Staples",
+    "volatility": 0.24272783948451793,
+    "last_close": 103.62000274658203
+  },
+  "MPC": {
+    "sector": "Energy",
+    "volatility": 0.36005340182404083,
+    "last_close": 159.11000061035156
+  },
+  "PFE": {
+    "sector": "Health Care",
+    "volatility": 0.24633442802359823,
+    "last_close": 24.649999618530273
+  },
+  "TFC": {
+    "sector": "Financials",
+    "volatility": 0.30836819322226533,
+    "last_close": 44.0099983215332
+  },
+  "LRCX": {
+    "sector": "Information Technology",
+    "volatility": 0.4760558988618053,
+    "last_close": 105.27999877929688
+  },
+  "MRNA": {
+    "sector": "Health Care",
+    "volatility": 0.6673244449372159,
+    "last_close": 25.65999984741211
+  },
+  "HUBB": {
+    "sector": "Industrials",
+    "volatility": 0.3194320652847651,
+    "last_close": 432.1400146484375
+  },
+  "PTC": {
+    "sector": "Information Technology",
+    "volatility": 0.3308894297290968,
+    "last_close": 204.5500030517578
+  },
+  "MAR": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.2804475707192854,
+    "last_close": 265.010009765625
+  },
+  "GL": {
+    "sector": "Financials",
+    "volatility": 0.27472768251632457,
+    "last_close": 139.74000549316406
+  },
+  "HAL": {
+    "sector": "Energy",
+    "volatility": 0.40932370169149024,
+    "last_close": 20.969999313354492
+  },
+  "CI": {
+    "sector": "Health Care",
+    "volatility": 0.30022022987362307,
+    "last_close": 280.4700012207031
+  },
+  "STX": {
+    "sector": "Information Technology",
+    "volatility": 0.41576454684221403,
+    "last_close": 155.58999633789062
+  },
+  "SYF": {
+    "sector": "Financials",
+    "volatility": 0.4281426494107113,
+    "last_close": 72.36000061035156
+  },
+  "DELL": {
+    "sector": "Information Technology",
+    "volatility": 0.5164100953929583,
+    "last_close": 141.63999938964844
+  },
+  "MNST": {
+    "sector": "Consumer Staples",
+    "volatility": 0.23937993893362206,
+    "last_close": 64.02999877929688
+  },
+  "ZBRA": {
+    "sector": "Information Technology",
+    "volatility": 0.42287452833646627,
+    "last_close": 328.1400146484375
+  },
+  "TAP": {
+    "sector": "Consumer Staples",
+    "volatility": 0.252751013609224,
+    "last_close": 51.040000915527344
+  },
+  "NXPI": {
+    "sector": "Information Technology",
+    "volatility": 0.4609698220868063,
+    "last_close": 220.0500030517578
+  },
+  "KEYS": {
+    "sector": "Information Technology",
+    "volatility": 0.3526035462906718,
+    "last_close": 167.08999633789062
+  },
+  "BKR": {
+    "sector": "Energy",
+    "volatility": 0.36509775057343147,
+    "last_close": 42.5099983215332
+  },
+  "CMS": {
+    "sector": "Utilities",
+    "volatility": 0.17049803726765228,
+    "last_close": 72.80999755859375
+  },
+  "KR": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2595740420481845,
+    "last_close": 73.55000305175781
+  },
+  "EA": {
+    "sector": "Communication Services",
+    "volatility": 0.3041080338096018,
+    "last_close": 177.91000366210938
+  },
+  "SO": {
+    "sector": "Utilities",
+    "volatility": 0.18188822883950315,
+    "last_close": 93.95999908447266
+  },
+  "SOLV": {
+    "sector": "Health Care",
+    "volatility": 0.3110801634217144,
+    "last_close": 72.08999633789062
+  },
+  "DAL": {
+    "sector": "Industrials",
+    "volatility": 0.49302097170846093,
+    "last_close": 58.439998626708984
+  },
+  "FOXA": {
+    "sector": "Communication Services",
+    "volatility": 0.27130283915792214,
+    "last_close": 56.130001068115234
+  },
+  "FDX": {
+    "sector": "Industrials",
+    "volatility": 0.3584275548671649,
+    "last_close": 230.4199981689453
+  },
+  "SRE": {
+    "sector": "Utilities",
+    "volatility": 0.3201725549198919,
+    "last_close": 82.08999633789062
+  },
+  "DIS": {
+    "sector": "Communication Services",
+    "volatility": 0.2957992371630891,
+    "last_close": 113.72000122070312
+  },
+  "COF": {
+    "sector": "Financials",
+    "volatility": 0.3934436185784065,
+    "last_close": 216.72999572753906
+  },
+  "NKE": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3965489419252418,
+    "last_close": 74.9000015258789
+  },
+  "XYZ": {
+    "sector": "Financials",
+    "volatility": 0.5612979856161475,
+    "last_close": 74.54000091552734
+  },
+  "EQR": {
+    "sector": "Real Estate",
+    "volatility": 0.23427149778472828,
+    "last_close": 62.70000076293945
+  },
+  "BDX": {
+    "sector": "Health Care",
+    "volatility": 0.30913500601918065,
+    "last_close": 194.9600067138672
+  },
+  "DUK": {
+    "sector": "Utilities",
+    "volatility": 0.17891861185507058,
+    "last_close": 124.47000122070312
+  },
+  "ETR": {
+    "sector": "Utilities",
+    "volatility": 0.2610901658011453,
+    "last_close": 90.88999938964844
+  },
+  "BEN": {
+    "sector": "Financials",
+    "volatility": 0.34387274951837904,
+    "last_close": 25.690000534057617
+  },
+  "PKG": {
+    "sector": "Materials",
+    "volatility": 0.25599633582987286,
+    "last_close": 198.9600067138672
+  },
+  "DD": {
+    "sector": "Materials",
+    "volatility": 0.3351461430265383,
+    "last_close": 71.93000030517578
+  },
+  "WMB": {
+    "sector": "Energy",
+    "volatility": 0.27216986699790907,
+    "last_close": 57.7599983215332
+  },
+  "BALL": {
+    "sector": "Materials",
+    "volatility": 0.26695420032132317,
+    "last_close": 53.5
+  },
+  "WM": {
+    "sector": "Industrials",
+    "volatility": 0.1819613747114357,
+    "last_close": 232.97999572753906
+  },
+  "CZR": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.46158193084047267,
+    "last_close": 24.639999389648438
+  },
+  "APD": {
+    "sector": "Materials",
+    "volatility": 0.2522571302381914,
+    "last_close": 289.2699890136719
+  },
+  "BR": {
+    "sector": "Industrials",
+    "volatility": 0.213877264676317,
+    "last_close": 262.5
+  },
+  "LHX": {
+    "sector": "Industrials",
+    "volatility": 0.2148607012846737,
+    "last_close": 270.2099914550781
+  },
+  "AME": {
+    "sector": "Industrials",
+    "volatility": 0.2269791740894614,
+    "last_close": 184.94000244140625
+  },
+  "CFG": {
+    "sector": "Financials",
+    "volatility": 0.3473961388268895,
+    "last_close": 48.13999938964844
+  },
+  "ABNB": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.39537947115047933,
+    "last_close": 121.61000061035156
+  },
+  "GM": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.37945814514794546,
+    "last_close": 54.15999984741211
+  },
+  "CBOE": {
+    "sector": "Financials",
+    "volatility": 0.22482709239384593,
+    "last_close": 248.52000427246094
+  },
+  "ABBV": {
+    "sector": "Health Care",
+    "volatility": 0.2824811668203805,
+    "last_close": 198.63999938964844
+  },
+  "L": {
+    "sector": "Financials",
+    "volatility": 0.21020793124023454,
+    "last_close": 94.31999969482422
+  },
+  "MSCI": {
+    "sector": "Financials",
+    "volatility": 0.25725333581951576,
+    "last_close": 550.1599731445312
+  },
+  "SW": {
+    "sector": "Materials",
+    "volatility": 0.3881143762507493,
+    "last_close": 44.27000045776367
+  },
+  "DHI": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.36380254482875285,
+    "last_close": 158.25999450683594
+  },
+  "ABT": {
+    "sector": "Health Care",
+    "volatility": 0.21877794784777474,
+    "last_close": 131.02000427246094
+  },
+  "GEHC": {
+    "sector": "Health Care",
+    "volatility": 0.35239017872411044,
+    "last_close": 74.41000366210938
+  },
+  "VTRS": {
+    "sector": "Health Care",
+    "volatility": 0.3715453458329928,
+    "last_close": 10.119999885559082
+  },
+  "TSN": {
+    "sector": "Consumer Staples",
+    "volatility": 0.22946706727699448,
+    "last_close": 56.439998626708984
+  },
+  "GPC": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.34879952021619337,
+    "last_close": 134.75999450683594
+  },
+  "MCK": {
+    "sector": "Health Care",
+    "volatility": 0.2639399523569575,
+    "last_close": 659.010009765625
+  },
+  "OXY": {
+    "sector": "Energy",
+    "volatility": 0.3533930004023342,
+    "last_close": 44.150001525878906
+  },
+  "PLTR": {
+    "sector": "Information Technology",
+    "volatility": 0.6994605056992897,
+    "last_close": 186.97000122070312
+  },
+  "GWW": {
+    "sector": "Industrials",
+    "volatility": 0.24426839981211293,
+    "last_close": 960.7000122070312
+  },
+  "ROK": {
+    "sector": "Industrials",
+    "volatility": 0.34124208272312667,
+    "last_close": 339.75
+  },
+  "MDLZ": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21833787642633837,
+    "last_close": 61.38999938964844
+  },
+  "CPRT": {
+    "sector": "Industrials",
+    "volatility": 0.2664619117493824,
+    "last_close": 47.20000076293945
+  },
+  "HRL": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21840622358748557,
+    "last_close": 28.760000228881836
+  },
+  "FITB": {
+    "sector": "Financials",
+    "volatility": 0.28299826494166186,
+    "last_close": 42.2400016784668
+  },
+  "BXP": {
+    "sector": "Real Estate",
+    "volatility": 0.31434843587781147,
+    "last_close": 63.66999816894531
+  },
+  "K": {
+    "sector": "Consumer Staples",
+    "volatility": 0.0450091041657539,
+    "last_close": 80.19000244140625
+  },
+  "CARR": {
+    "sector": "Industrials",
+    "volatility": 0.34041869460106455,
+    "last_close": 65.7300033569336
+  },
+  "AJG": {
+    "sector": "Financials",
+    "volatility": 0.23374741075642694,
+    "last_close": 290.6499938964844
+  },
+  "SWK": {
+    "sector": "Industrials",
+    "volatility": 0.43015758341465565,
+    "last_close": 71.43000030517578
+  },
+  "UAL": {
+    "sector": "Industrials",
+    "volatility": 0.574225299761078,
+    "last_close": 98.47000122070312
+  },
+  "LDOS": {
+    "sector": "Industrials",
+    "volatility": 0.3148966543784155,
+    "last_close": 178.02000427246094
+  },
+  "CME": {
+    "sector": "Financials",
+    "volatility": 0.1829235772378277,
+    "last_close": 275.8800048828125
+  },
+  "BSX": {
+    "sector": "Health Care",
+    "volatility": 0.22596235950330582,
+    "last_close": 102.63999938964844
+  },
+  "MMM": {
+    "sector": "Industrials",
+    "volatility": 0.2868251234543968,
+    "last_close": 157.85000610351562
+  },
+  "HBAN": {
+    "sector": "Financials",
+    "volatility": 0.31794899715525393,
+    "last_close": 16.469999313354492
+  },
+  "AEE": {
+    "sector": "Utilities",
+    "volatility": 0.18146230392236584,
+    "last_close": 101.19999694824219
+  },
+  "DHR": {
+    "sector": "Health Care",
+    "volatility": 0.3051336500363301,
+    "last_close": 205.72000122070312
+  },
+  "NEE": {
+    "sector": "Utilities",
+    "volatility": 0.2855818110673984,
+    "last_close": 71.86000061035156
+  },
+  "APTV": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.40806716986007086,
+    "last_close": 71.69999694824219
+  },
+  "HUM": {
+    "sector": "Health Care",
+    "volatility": 0.4575865504956485,
+    "last_close": 274.94000244140625
+  },
+  "INCY": {
+    "sector": "Health Care",
+    "volatility": 0.3652000717166382,
+    "last_close": 81.61000061035156
+  },
+  "WFC": {
+    "sector": "Financials",
+    "volatility": 0.32654582264938303,
+    "last_close": 79.4800033569336
+  },
+  "HSY": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2929057310748926,
+    "last_close": 176.47000122070312
+  },
+  "HSIC": {
+    "sector": "Health Care",
+    "volatility": 0.28241639009363095,
+    "last_close": 67.5
+  },
+  "FICO": {
+    "sector": "Information Technology",
+    "volatility": 0.4238241650585475,
+    "last_close": 1318.699951171875
+  },
+  "WYNN": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4086768800843114,
+    "last_close": 112.48999786376953
+  },
+  "GEV": {
+    "sector": "Industrials",
+    "volatility": 0.5569214832386306,
+    "last_close": 657.4400024414062
+  },
+  "META": {
+    "sector": "Communication Services",
+    "volatility": 0.36252354049779145,
+    "last_close": 790.0
+  },
+  "ADBE": {
+    "sector": "Information Technology",
+    "volatility": 0.3522177808779656,
+    "last_close": 338.42999267578125
+  },
+  "EQT": {
+    "sector": "Energy",
+    "volatility": 0.3920545512576873,
+    "last_close": 51.27000045776367
+  },
+  "MHK": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.37501456126717714,
+    "last_close": 125.7699966430664
+  },
+  "BAC": {
+    "sector": "Financials",
+    "volatility": 0.2833984925142126,
+    "last_close": 47.5
+  },
+  "PWR": {
+    "sector": "Industrials",
+    "volatility": 0.39813693626417235,
+    "last_close": 391.57000732421875
+  },
+  "SJM": {
+    "sector": "Consumer Staples",
+    "volatility": 0.29779572185694525,
+    "last_close": 111.37000274658203
+  },
+  "MTD": {
+    "sector": "Health Care",
+    "volatility": 0.34111959581581863,
+    "last_close": 1292.8900146484375
+  },
+  "EG": {
+    "sector": "Financials",
+    "volatility": 0.2560427057846104,
+    "last_close": 328.2099914550781
+  },
+  "PAYX": {
+    "sector": "Industrials",
+    "volatility": 0.24274847904225755,
+    "last_close": 134.99000549316406
+  },
+  "UNP": {
+    "sector": "Industrials",
+    "volatility": 0.2383508104613241,
+    "last_close": 218.8000030517578
+  },
+  "AXP": {
+    "sector": "Financials",
+    "volatility": 0.31719907714802736,
+    "last_close": 303.2099914550781
+  },
+  "DLTR": {
+    "sector": "Consumer Staples",
+    "volatility": 0.5108318313912862,
+    "last_close": 114.05999755859375
+  },
+  "IFF": {
+    "sector": "Materials",
+    "volatility": 0.2883796931004521,
+    "last_close": 64.54000091552734
+  },
+  "ROP": {
+    "sector": "Information Technology",
+    "volatility": 0.20076669509142334,
+    "last_close": 519.5
+  },
+  "ADI": {
+    "sector": "Information Technology",
+    "volatility": 0.3956656395131071,
+    "last_close": 232.0399932861328
+  },
+  "TPR": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4145716792922903,
+    "last_close": 110.86000061035156
+  },
+  "ACN": {
+    "sector": "Information Technology",
+    "volatility": 0.28125594282640004,
+    "last_close": 237.8699951171875
+  },
+  "ELV": {
+    "sector": "Health Care",
+    "volatility": 0.36695956001734137,
+    "last_close": 292.4800109863281
+  },
+  "AMD": {
+    "sector": "Information Technology",
+    "volatility": 0.5193194305076155,
+    "last_close": 174.9499969482422
+  },
+  "GLW": {
+    "sector": "Information Technology",
+    "volatility": 0.3245625440383781,
+    "last_close": 65.75
+  },
+  "CRM": {
+    "sector": "Information Technology",
+    "volatility": 0.32129424576640875,
+    "last_close": 231.66000366210938
+  },
+  "MOS": {
+    "sector": "Materials",
+    "volatility": 0.3915645307177375,
+    "last_close": 31.190000534057617
+  },
+  "AVGO": {
+    "sector": "Information Technology",
+    "volatility": 0.5716169679917706,
+    "last_close": 312.8299865722656
+  },
+  "CMI": {
+    "sector": "Industrials",
+    "volatility": 0.2994773006913383,
+    "last_close": 399.05999755859375
+  },
+  "VTR": {
+    "sector": "Real Estate",
+    "volatility": 0.22245041260388568,
+    "last_close": 68.51000213623047
+  },
+  "BLDR": {
+    "sector": "Industrials",
+    "volatility": 0.438028693152913,
+    "last_close": 137.4499969482422
+  },
+  "ENPH": {
+    "sector": "Information Technology",
+    "volatility": 0.7535085448393751,
+    "last_close": 33.560001373291016
+  },
+  "FRT": {
+    "sector": "Real Estate",
+    "volatility": 0.23286535207965608,
+    "last_close": 92.81999969482422
+  },
+  "SCHW": {
+    "sector": "Financials",
+    "volatility": 0.2618364074010476,
+    "last_close": 98.69000244140625
+  },
+  "DOW": {
+    "sector": "Materials",
+    "volatility": 0.4434862009764389,
+    "last_close": 21.709999084472656
+  },
+  "CPB": {
+    "sector": "Consumer Staples",
+    "volatility": 0.25336893310681236,
+    "last_close": 32.099998474121094
+  },
+  "KKR": {
+    "sector": "Financials",
+    "volatility": 0.4493465271585542,
+    "last_close": 147.24000549316406
+  },
+  "WBA": {
+    "sector": "Consumer Staples",
+    "volatility": 0.5296190880034312,
+    "last_close": 11.869999885559082
+  },
+  "NFLX": {
+    "sector": "Communication Services",
+    "volatility": 0.3290604515525705,
+    "last_close": 1225.280029296875
+  },
+  "BBY": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4414607560626754,
+    "last_close": 70.23999786376953
+  },
+  "CTSH": {
+    "sector": "Information Technology",
+    "volatility": 0.2499002395175305,
+    "last_close": 68.7699966430664
+  },
+  "SNPS": {
+    "sector": "Information Technology",
+    "volatility": 0.4036695630635848,
+    "last_close": 625.7999877929688
+  },
+  "VRSN": {
+    "sector": "Information Technology",
+    "volatility": 0.24959795239546498,
+    "last_close": 263.0199890136719
+  },
+  "JPM": {
+    "sector": "Financials",
+    "volatility": 0.2745949717530338,
+    "last_close": 292.8500061035156
+  },
+  "GPN": {
+    "sector": "Financials",
+    "volatility": 0.41375972210308803,
+    "last_close": 82.38999938964844
+  },
+  "ICE": {
+    "sector": "Financials",
+    "volatility": 0.18605921420954113,
+    "last_close": 182.74000549316406
+  },
+  "CAH": {
+    "sector": "Health Care",
+    "volatility": 0.22905875387427643,
+    "last_close": 146.3000030517578
+  },
+  "VLTO": {
+    "sector": "Industrials",
+    "volatility": 0.20882101030921407,
+    "last_close": 108.80999755859375
+  },
+  "JCI": {
+    "sector": "Industrials",
+    "volatility": 0.3063164137617747,
+    "last_close": 106.63999938964844
+  },
+  "SBUX": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3278594885511915,
+    "last_close": 93.37000274658203
+  },
+  "ARE": {
+    "sector": "Real Estate",
+    "volatility": 0.3013361449622039,
+    "last_close": 73.69000244140625
+  },
+  "NEM": {
+    "sector": "Materials",
+    "volatility": 0.3872032218628853,
+    "last_close": 68.93000030517578
+  },
+  "PRU": {
+    "sector": "Financials",
+    "volatility": 0.2779852469491628,
+    "last_close": 105.22000122070312
+  },
+  "PNC": {
+    "sector": "Financials",
+    "volatility": 0.26364222703127477,
+    "last_close": 191.22999572753906
+  },
+  "VRTX": {
+    "sector": "Health Care",
+    "volatility": 0.37981953394099044,
+    "last_close": 387.7699890136719
+  },
+  "KMX": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3853475536660595,
+    "last_close": 56.65999984741211
+  },
+  "BMY": {
+    "sector": "Health Care",
+    "volatility": 0.29381876229278237,
+    "last_close": 46.54999923706055
+  },
+  "NRG": {
+    "sector": "Utilities",
+    "volatility": 0.5432511482692671,
+    "last_close": 156.69000244140625
+  },
+  "BA": {
+    "sector": "Industrials",
+    "volatility": 0.38140909687400254,
+    "last_close": 232.61000061035156
+  },
+  "POOL": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3094964263928641,
+    "last_close": 312.8500061035156
+  },
+  "CNC": {
+    "sector": "Health Care",
+    "volatility": 0.6362178029507941,
+    "last_close": 26.170000076293945
+  },
+  "COR": {
+    "sector": "Health Care",
+    "volatility": 0.20700181167836793,
+    "last_close": 289.1499938964844
+  },
+  "GILD": {
+    "sector": "Health Care",
+    "volatility": 0.272778732156854,
+    "last_close": 120.0199966430664
+  },
+  "GS": {
+    "sector": "Financials",
+    "volatility": 0.33378317749415387,
+    "last_close": 743.3800048828125
+  },
+  "NUE": {
+    "sector": "Materials",
+    "volatility": 0.4082621775123229,
+    "last_close": 141.42999267578125
+  },
+  "PSA": {
+    "sector": "Real Estate",
+    "volatility": 0.232176587927562,
+    "last_close": 280.4800109863281
+  },
+  "CHTR": {
+    "sector": "Communication Services",
+    "volatility": 0.4242425840608512,
+    "last_close": 263.1000061035156
+  },
+  "V": {
+    "sector": "Financials",
+    "volatility": 0.22766750538274208,
+    "last_close": 336.739990234375
+  },
+  "WAB": {
+    "sector": "Industrials",
+    "volatility": 0.2793454377497339,
+    "last_close": 192.91000366210938
+  },
+  "GD": {
+    "sector": "Industrials",
+    "volatility": 0.22836010177515914,
+    "last_close": 314.010009765625
+  },
+  "HD": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.22025536154667388,
+    "last_close": 396.0
+  },
+  "LYB": {
+    "sector": "Materials",
+    "volatility": 0.37804755186547917,
+    "last_close": 50.27000045776367
+  },
+  "IT": {
+    "sector": "Information Technology",
+    "volatility": 0.4090471903998325,
+    "last_close": 229.38999938964844
+  },
+  "PEP": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21573047844005225,
+    "last_close": 146.8699951171875
+  },
+  "VLO": {
+    "sector": "Energy",
+    "volatility": 0.38302097774478966,
+    "last_close": 133.3800048828125
+  },
+  "AWK": {
+    "sector": "Utilities",
+    "volatility": 0.2361155041022609,
+    "last_close": 142.08999633789062
+  },
+  "KMB": {
+    "sector": "Consumer Staples",
+    "volatility": 0.18974489611474482,
+    "last_close": 133.63999938964844
+  },
+  "AEP": {
+    "sector": "Utilities",
+    "volatility": 0.19175524827114218,
+    "last_close": 111.98999786376953
+  },
+  "CRL": {
+    "sector": "Health Care",
+    "volatility": 0.5609272038037809,
+    "last_close": 152.75
+  },
+  "AVY": {
+    "sector": "Materials",
+    "volatility": 0.22704973154520067,
+    "last_close": 174.6699981689453
+  },
+  "FAST": {
+    "sector": "Industrials",
+    "volatility": 0.2500252378356641,
+    "last_close": 48.45000076293945
+  },
+  "ITW": {
+    "sector": "Industrials",
+    "volatility": 0.21651759708514254,
+    "last_close": 260.4800109863281
+  },
+  "CSCO": {
+    "sector": "Information Technology",
+    "volatility": 0.2279199884771878,
+    "last_close": 71.37999725341797
+  },
+  "ERIE": {
+    "sector": "Financials",
+    "volatility": 0.3302361044881669,
+    "last_close": 362.6600036621094
+  },
+  "KLAC": {
+    "sector": "Information Technology",
+    "volatility": 0.44953021471556126,
+    "last_close": 935.530029296875
+  },
+  "GNRC": {
+    "sector": "Industrials",
+    "volatility": 0.42449996455551575,
+    "last_close": 198.86000061035156
+  },
+  "J": {
+    "sector": "Industrials",
+    "volatility": 0.24044322490417006,
+    "last_close": 149.80999755859375
+  },
+  "PAYC": {
+    "sector": "Industrials",
+    "volatility": 0.3933056025857715,
+    "last_close": 215.2100067138672
+  },
+  "HIG": {
+    "sector": "Financials",
+    "volatility": 0.22757803919206973,
+    "last_close": 129.02000427246094
+  },
+  "SMCI": {
+    "sector": "Information Technology",
+    "volatility": 1.1399888356029015,
+    "last_close": 46.43000030517578
+  },
+  "CCI": {
+    "sector": "Real Estate",
+    "volatility": 0.26217306208098945,
+    "last_close": 102.33000183105469
+  },
+  "CAG": {
+    "sector": "Consumer Staples",
+    "volatility": 0.25015283829345153,
+    "last_close": 19.5
+  },
+  "HST": {
+    "sector": "Real Estate",
+    "volatility": 0.2940600258492788,
+    "last_close": 15.75
+  },
+  "SLB": {
+    "sector": "Energy",
+    "volatility": 0.3657908575816555,
+    "last_close": 32.939998626708984
+  },
+  "BK": {
+    "sector": "Financials",
+    "volatility": 0.2370936090546499,
+    "last_close": 103.61000061035156
+  },
+  "DLR": {
+    "sector": "Real Estate",
+    "volatility": 0.2776131599374223,
+    "last_close": 169.27000427246094
+  },
+  "ADM": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2812455687229355,
+    "last_close": 58.560001373291016
+  },
+  "FTNT": {
+    "sector": "Information Technology",
+    "volatility": 0.43453644282830783,
+    "last_close": 78.47000122070312
+  },
+  "ZTS": {
+    "sector": "Health Care",
+    "volatility": 0.25510457136299175,
+    "last_close": 149.77000427246094
+  },
+  "APA": {
+    "sector": "Energy",
+    "volatility": 0.5376081921286283,
+    "last_close": 20.440000534057617
+  },
+  "FCX": {
+    "sector": "Materials",
+    "volatility": 0.4549884934409933,
+    "last_close": 42.150001525878906
+  },
+  "PPL": {
+    "sector": "Utilities",
+    "volatility": 0.18191868568516303,
+    "last_close": 36.900001525878906
+  },
+  "TDG": {
+    "sector": "Industrials",
+    "volatility": 0.2941224070078171,
+    "last_close": 1410.699951171875
+  },
+  "DAY": {
+    "sector": "Industrials",
+    "volatility": 0.37935234322708294,
+    "last_close": 51.560001373291016
+  },
+  "EOG": {
+    "sector": "Energy",
+    "volatility": 0.29577349598894753,
+    "last_close": 118.01000213623047
+  },
+  "WRB": {
+    "sector": "Financials",
+    "volatility": 0.22465048193024,
+    "last_close": 70.01000213623047
+  },
+  "TTD": {
+    "sector": "Communication Services",
+    "volatility": 0.8148090098437873,
+    "last_close": 53.27000045776367
+  },
+  "LULU": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.49002472987510043,
+    "last_close": 192.92999267578125
+  },
+  "KIM": {
+    "sector": "Real Estate",
+    "volatility": 0.2337995949296862,
+    "last_close": 21.1299991607666
+  },
+  "AMGN": {
+    "sector": "Health Care",
+    "volatility": 0.2692305218154195,
+    "last_close": 284.9800109863281
+  },
+  "PHM": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.35309584251418513,
+    "last_close": 123.33000183105469
+  },
+  "LYV": {
+    "sector": "Communication Services",
+    "volatility": 0.2934443196153486,
+    "last_close": 158.42999267578125
+  },
+  "NWS": {
+    "sector": "Communication Services",
+    "volatility": 0.22333654720254834,
+    "last_close": 33.279998779296875
+  },
+  "PSKY": {
+    "sector": "Communication Services",
+    "volatility": 0.4628561309578625,
+    "last_close": 10.970000267028809
+  },
+  "COST": {
+    "sector": "Consumer Staples",
+    "volatility": 0.21625620547240143,
+    "last_close": 991.25
+  },
+  "SHW": {
+    "sector": "Materials",
+    "volatility": 0.23875568248733645,
+    "last_close": 358.0899963378906
+  },
+  "WBD": {
+    "sector": "Communication Services",
+    "volatility": 0.5644431005822116,
+    "last_close": 11.220000267028809
+  },
+  "IPG": {
+    "sector": "Communication Services",
+    "volatility": 0.29819992626088543,
+    "last_close": 25.270000457763672
+  },
+  "CEG": {
+    "sector": "Utilities",
+    "volatility": 0.6601849187448536,
+    "last_close": 338.57000732421875
+  },
+  "CSX": {
+    "sector": "Industrials",
+    "volatility": 0.2536545342036503,
+    "last_close": 35.81999969482422
+  },
+  "D": {
+    "sector": "Utilities",
+    "volatility": 0.2307256832468333,
+    "last_close": 61.310001373291016
+  },
+  "HPE": {
+    "sector": "Information Technology",
+    "volatility": 0.47133152122830674,
+    "last_close": 21.31999969482422
+  },
+  "TSLA": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.7087074613202428,
+    "last_close": 340.8399963378906
+  },
+  "AON": {
+    "sector": "Financials",
+    "volatility": 0.21466620485418333,
+    "last_close": 363.80999755859375
+  },
+  "FOX": {
+    "sector": "Communication Services",
+    "volatility": 0.27206658178573806,
+    "last_close": 51.150001525878906
+  },
+  "RTX": {
+    "sector": "Industrials",
+    "volatility": 0.2600961451818716,
+    "last_close": 155.49000549316406
+  },
+  "MOH": {
+    "sector": "Health Care",
+    "volatility": 0.5448794408132362,
+    "last_close": 157.30999755859375
+  },
+  "TSCO": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.28547454653629445,
+    "last_close": 59.29999923706055
+  },
+  "NWSA": {
+    "sector": "Communication Services",
+    "volatility": 0.21924312871409238,
+    "last_close": 28.81999969482422
+  },
+  "ALL": {
+    "sector": "Financials",
+    "volatility": 0.2602819121024828,
+    "last_close": 206.75999450683594
+  },
+  "VMC": {
+    "sector": "Materials",
+    "volatility": 0.25755370199341376,
+    "last_close": 291.8900146484375
+  },
+  "STZ": {
+    "sector": "Consumer Staples",
+    "volatility": 0.31019239157509293,
+    "last_close": 169.97999572753906
+  },
+  "AMCR": {
+    "sector": "Materials",
+    "volatility": 0.23213021246562837,
+    "last_close": 9.770000457763672
+  },
+  "HON": {
+    "sector": "Industrials",
+    "volatility": 0.2494554215361255,
+    "last_close": 217.00999450683594
+  },
+  "IDXX": {
+    "sector": "Health Care",
+    "volatility": 0.40579661923333205,
+    "last_close": 652.27001953125
+  },
+  "KHC": {
+    "sector": "Consumer Staples",
+    "volatility": 0.23442227074258828,
+    "last_close": 27.350000381469727
+  },
+  "CINF": {
+    "sector": "Financials",
+    "volatility": 0.2558324686734632,
+    "last_close": 151.38999938964844
+  },
+  "EMR": {
+    "sector": "Industrials",
+    "volatility": 0.3040823978390103,
+    "last_close": 132.9499969482422
+  },
+  "USB": {
+    "sector": "Financials",
+    "volatility": 0.29109820978690004,
+    "last_close": 45.77000045776367
+  },
+  "HPQ": {
+    "sector": "Information Technology",
+    "volatility": 0.37595219517908013,
+    "last_close": 26.600000381469727
+  },
+  "MTCH": {
+    "sector": "Communication Services",
+    "volatility": 0.4035349954536848,
+    "last_close": 36.41999816894531
+  },
+  "PCAR": {
+    "sector": "Industrials",
+    "volatility": 0.2861184728919664,
+    "last_close": 98.94999694824219
+  },
+  "PCG": {
+    "sector": "Utilities",
+    "volatility": 0.2934045334976078,
+    "last_close": 15.460000038146973
+  },
+  "AKAM": {
+    "sector": "Information Technology",
+    "volatility": 0.42868234468924593,
+    "last_close": 71.97000122070312
+  },
+  "BKNG": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.270202133916724,
+    "last_close": 5461.5400390625
+  },
+  "FE": {
+    "sector": "Utilities",
+    "volatility": 0.20747653330678167,
+    "last_close": 43.61000061035156
+  },
+  "TER": {
+    "sector": "Information Technology",
+    "volatility": 0.5362637376381966,
+    "last_close": 111.62999725341797
+  },
+  "OKE": {
+    "sector": "Energy",
+    "volatility": 0.3254481634999739,
+    "last_close": 74.05000305175781
+  },
+  "MGM": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4189437011910181,
+    "last_close": 35.400001525878906
+  },
+  "MCD": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.18962804729684746,
+    "last_close": 301.6400146484375
+  },
+  "BIIB": {
+    "sector": "Health Care",
+    "volatility": 0.2906550747609395,
+    "last_close": 128.92999267578125
+  },
+  "FI": {
+    "sector": "Financials",
+    "volatility": 0.4026793486345099,
+    "last_close": 132.32000732421875
+  },
+  "DXCM": {
+    "sector": "Health Care",
+    "volatility": 0.41264860805921266,
+    "last_close": 80.16999816894531
+  },
+  "ADP": {
+    "sector": "Industrials",
+    "volatility": 0.19056018603722635,
+    "last_close": 299.6300048828125
+  },
+  "COP": {
+    "sector": "Energy",
+    "volatility": 0.33966845141137275,
+    "last_close": 94.58999633789062
+  },
+  "ALB": {
+    "sector": "Materials",
+    "volatility": 0.6058605799316352,
+    "last_close": 77.9800033569336
+  },
+  "DPZ": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.277341308751613,
+    "last_close": 441.19000244140625
+  },
+  "EXE": {
+    "sector": "Energy",
+    "volatility": 0.30385242233799337,
+    "last_close": 95.88999938964844
+  },
+  "MA": {
+    "sector": "Financials",
+    "volatility": 0.22004518875053003,
+    "last_close": 574.1799926757812
+  },
+  "ACGL": {
+    "sector": "Financials",
+    "volatility": 0.2698308709301185,
+    "last_close": 87.77999877929688
+  },
+  "UDR": {
+    "sector": "Real Estate",
+    "volatility": 0.22696307506312727,
+    "last_close": 37.83000183105469
+  },
+  "TTWO": {
+    "sector": "Communication Services",
+    "volatility": 0.2998741044129565,
+    "last_close": 232.55999755859375
+  },
+  "TYL": {
+    "sector": "Information Technology",
+    "volatility": 0.2541598651375751,
+    "last_close": 563.9400024414062
+  },
+  "CB": {
+    "sector": "Financials",
+    "volatility": 0.2043806182154355,
+    "last_close": 269.7699890136719
+  },
+  "JBHT": {
+    "sector": "Industrials",
+    "volatility": 0.3378946569194956,
+    "last_close": 142.8300018310547
+  },
+  "MAA": {
+    "sector": "Real Estate",
+    "volatility": 0.2083722497849841,
+    "last_close": 138.3800048828125
+  },
+  "FANG": {
+    "sector": "Energy",
+    "volatility": 0.40517637682151175,
+    "last_close": 138.49000549316406
+  },
+  "GDDY": {
+    "sector": "Information Technology",
+    "volatility": 0.33817454612215997,
+    "last_close": 140.41000366210938
+  },
+  "F": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.32390384935188377,
+    "last_close": 11.25
+  },
+  "HII": {
+    "sector": "Industrials",
+    "volatility": 0.48142218732200803,
+    "last_close": 268.0
+  },
+  "UHS": {
+    "sector": "Health Care",
+    "volatility": 0.3494364382888591,
+    "last_close": 175.2100067138672
+  },
+  "STLD": {
+    "sector": "Materials",
+    "volatility": 0.38322186232687605,
+    "last_close": 125.5999984741211
+  },
+  "AVB": {
+    "sector": "Real Estate",
+    "volatility": 0.22485851486944433,
+    "last_close": 186.92999267578125
+  },
+  "UBER": {
+    "sector": "Industrials",
+    "volatility": 0.4067774652241898,
+    "last_close": 91.7300033569336
+  },
+  "DRI": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.2939206691157423,
+    "last_close": 205.1300048828125
+  },
+  "O": {
+    "sector": "Real Estate",
+    "volatility": 0.18360945128753117,
+    "last_close": 57.65999984741211
+  },
+  "RCL": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.4282139402289525,
+    "last_close": 313.0799865722656
+  },
+  "MKC": {
+    "sector": "Consumer Staples",
+    "volatility": 0.22013134693645628,
+    "last_close": 69.08999633789062
+  },
+  "VRSK": {
+    "sector": "Industrials",
+    "volatility": 0.2114602820806479,
+    "last_close": 260.0
+  },
+  "MO": {
+    "sector": "Consumer Staples",
+    "volatility": 0.19445694343148331,
+    "last_close": 66.01000213623047
+  },
+  "CMCSA": {
+    "sector": "Communication Services",
+    "volatility": 0.2859390447597254,
+    "last_close": 32.099998474121094
+  },
+  "TPL": {
+    "sector": "Energy",
+    "volatility": 0.5258275837032562,
+    "last_close": 856.8099975585938
+  },
+  "ODFL": {
+    "sector": "Industrials",
+    "volatility": 0.40249839639373036,
+    "last_close": 149.22999572753906
+  },
+  "CVX": {
+    "sector": "Energy",
+    "volatility": 0.25012549666639433,
+    "last_close": 154.44000244140625
+  },
+  "TDY": {
+    "sector": "Information Technology",
+    "volatility": 0.2289690301280666,
+    "last_close": 552.2999877929688
+  },
+  "NVR": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.27108325197335265,
+    "last_close": 7962.2998046875
+  },
+  "CMG": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.35161515713304275,
+    "last_close": 42.83000183105469
+  },
+  "TT": {
+    "sector": "Industrials",
+    "volatility": 0.2838931119841517,
+    "last_close": 438.95001220703125
+  },
+  "YUM": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.22754351765947128,
+    "last_close": 142.08999633789062
+  },
+  "MCHP": {
+    "sector": "Information Technology",
+    "volatility": 0.5812115129926255,
+    "last_close": 64.5
+  },
+  "RMD": {
+    "sector": "Health Care",
+    "volatility": 0.29198204723134363,
+    "last_close": 283.2900085449219
+  },
+  "TXT": {
+    "sector": "Industrials",
+    "volatility": 0.28967080360821035,
+    "last_close": 78.54000091552734
+  },
+  "FDS": {
+    "sector": "Financials",
+    "volatility": 0.21622838243380801,
+    "last_close": 370.739990234375
+  },
+  "ECL": {
+    "sector": "Materials",
+    "volatility": 0.19115883357529628,
+    "last_close": 276.6199951171875
+  },
+  "NTRS": {
+    "sector": "Financials",
+    "volatility": 0.29452945859895696,
+    "last_close": 127.37999725341797
+  },
+  "RVTY": {
+    "sector": "Health Care",
+    "volatility": 0.356555743792566,
+    "last_close": 88.0
+  },
+  "T": {
+    "sector": "Communication Services",
+    "volatility": 0.22729418433281548,
+    "last_close": 28.479999542236328
+  },
+  "NI": {
+    "sector": "Utilities",
+    "volatility": 0.19179689667042757,
+    "last_close": 42.36000061035156
+  },
+  "HOLX": {
+    "sector": "Health Care",
+    "volatility": 0.28238964783834797,
+    "last_close": 67.94999694824219
+  },
+  "LEN": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3411144282929792,
+    "last_close": 124.47000122070312
+  },
+  "KO": {
+    "sector": "Consumer Staples",
+    "volatility": 0.1705410095298025,
+    "last_close": 70.70999908447266
+  },
+  "NSC": {
+    "sector": "Industrials",
+    "volatility": 0.26850792135316615,
+    "last_close": 278.239990234375
+  },
+  "AMP": {
+    "sector": "Financials",
+    "volatility": 0.2936571942920703,
+    "last_close": 517.0
+  },
+  "ES": {
+    "sector": "Utilities",
+    "volatility": 0.2355611749764128,
+    "last_close": 65.81999969482422
+  },
+  "APH": {
+    "sector": "Information Technology",
+    "volatility": 0.3565818726559088,
+    "last_close": 111.8499984741211
+  },
+  "DE": {
+    "sector": "Industrials",
+    "volatility": 0.28205030448960206,
+    "last_close": 505.8500061035156
+  },
+  "REG": {
+    "sector": "Real Estate",
+    "volatility": 0.19536461386383294,
+    "last_close": 71.87999725341797
+  },
+  "OMC": {
+    "sector": "Communication Services",
+    "volatility": 0.30296733742530246,
+    "last_close": 73.68000030517578
+  },
+  "XEL": {
+    "sector": "Utilities",
+    "volatility": 0.1998938813003397,
+    "last_close": 72.38999938964844
+  },
+  "VST": {
+    "sector": "Utilities",
+    "volatility": 0.7283096535828252,
+    "last_close": 209.55999755859375
+  },
+  "CNP": {
+    "sector": "Utilities",
+    "volatility": 0.18240597657215107,
+    "last_close": 38.470001220703125
+  },
+  "IRM": {
+    "sector": "Real Estate",
+    "volatility": 0.3317195632075574,
+    "last_close": 92.1500015258789
+  },
+  "WAT": {
+    "sector": "Health Care",
+    "volatility": 0.3944588040724612,
+    "last_close": 285.5199890136719
+  },
+  "KVUE": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2411773842692955,
+    "last_close": 21.899999618530273
+  },
+  "GRMN": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.40012475512142315,
+    "last_close": 232.9499969482422
+  },
+  "WELL": {
+    "sector": "Real Estate",
+    "volatility": 0.2205090337020068,
+    "last_close": 164.7899932861328
+  },
+  "NDAQ": {
+    "sector": "Financials",
+    "volatility": 0.22919004865374598,
+    "last_close": 96.12999725341797
+  },
+  "SNA": {
+    "sector": "Industrials",
+    "volatility": 0.2603044437364346,
+    "last_close": 325.55999755859375
+  },
+  "UNH": {
+    "sector": "Health Care",
+    "volatility": 0.4874603051282738,
+    "last_close": 261.57000732421875
+  },
+  "LVS": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.37974019543560517,
+    "last_close": 53.88999938964844
+  },
+  "SYY": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2085052469858166,
+    "last_close": 80.75
+  },
+  "VICI": {
+    "sector": "Real Estate",
+    "volatility": 0.18811925031782833,
+    "last_close": 32.869998931884766
+  },
+  "AZO": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.2170388009973216,
+    "last_close": 4000.669921875
+  },
+  "ANET": {
+    "sector": "Information Technology",
+    "volatility": 0.564938616665227,
+    "last_close": 141.25
+  },
+  "TKO": {
+    "sector": "Communication Services",
+    "volatility": 0.3346438724975018,
+    "last_close": 186.02000427246094
+  },
+  "MET": {
+    "sector": "Financials",
+    "volatility": 0.2932012035371311,
+    "last_close": 76.55999755859375
+  },
+  "CTRA": {
+    "sector": "Energy",
+    "volatility": 0.30359809690192807,
+    "last_close": 23.979999542236328
+  },
+  "CRWD": {
+    "sector": "Information Technology",
+    "volatility": 0.46075745753672354,
+    "last_close": 435.79998779296875
+  },
+  "ORLY": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.20212471977679414,
+    "last_close": 101.88999938964844
+  },
+  "KMI": {
+    "sector": "Energy",
+    "volatility": 0.26403424985933555,
+    "last_close": 26.559999465942383
+  },
+  "XYL": {
+    "sector": "Industrials",
+    "volatility": 0.2580846072781009,
+    "last_close": 143.42999267578125
+  },
+  "ON": {
+    "sector": "Information Technology",
+    "volatility": 0.5840782721035399,
+    "last_close": 50.0099983215332
+  },
+  "PFG": {
+    "sector": "Financials",
+    "volatility": 0.28814628982230334,
+    "last_close": 77.23999786376953
+  },
+  "LMT": {
+    "sector": "Industrials",
+    "volatility": 0.27231325910888754,
+    "last_close": 431.55999755859375
+  },
+  "EL": {
+    "sector": "Consumer Staples",
+    "volatility": 0.5373232909859916,
+    "last_close": 91.69999694824219
+  },
+  "NCLH": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.5190238570329527,
+    "last_close": 24.239999771118164
+  },
+  "CL": {
+    "sector": "Consumer Staples",
+    "volatility": 0.20589239441974067,
+    "last_close": 84.97000122070312
+  },
+  "GOOG": {
+    "sector": "Communication Services",
+    "volatility": 0.3082711252456692,
+    "last_close": 204.16000366210938
+  },
+  "DTE": {
+    "sector": "Utilities",
+    "volatility": 0.17952349761958908,
+    "last_close": 139.88999938964844
+  },
+  "GEN": {
+    "sector": "Information Technology",
+    "volatility": 0.2831758769291656,
+    "last_close": 31.850000381469727
+  },
+  "TEL": {
+    "sector": "Information Technology",
+    "volatility": 0.2920188029704629,
+    "last_close": 204.13999938964844
+  },
+  "C": {
+    "sector": "Financials",
+    "volatility": 0.33410756601648844,
+    "last_close": 95.73999786376953
+  },
+  "WDC": {
+    "sector": "Information Technology",
+    "volatility": 0.4657688119388282,
+    "last_close": 75.91000366210938
+  },
+  "TRGP": {
+    "sector": "Energy",
+    "volatility": 0.36411939152358014,
+    "last_close": 168.0399932861328
+  },
+  "AMZN": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.33894270808377064,
+    "last_close": 221.47000122070312
+  },
+  "CVS": {
+    "sector": "Health Care",
+    "volatility": 0.37439306158163627,
+    "last_close": 65.51000213623047
+  },
+  "TXN": {
+    "sector": "Information Technology",
+    "volatility": 0.407519946428094,
+    "last_close": 192.97000122070312
+  },
+  "WY": {
+    "sector": "Real Estate",
+    "volatility": 0.27087892533216806,
+    "last_close": 25.6200008392334
+  },
+  "CHD": {
+    "sector": "Consumer Staples",
+    "volatility": 0.2076953420756674,
+    "last_close": 92.25
+  },
+  "AXON": {
+    "sector": "Industrials",
+    "volatility": 0.5550631765223445,
+    "last_close": 768.5700073242188
+  },
+  "PLD": {
+    "sector": "Real Estate",
+    "volatility": 0.2887013111055781,
+    "last_close": 104.80999755859375
+  },
+  "APO": {
+    "sector": "Financials",
+    "volatility": 0.42764180973538674,
+    "last_close": 144.60000610351562
+  },
+  "RL": {
+    "sector": "Consumer Discretionary",
+    "volatility": 0.3992325312330375,
+    "last_close": 299.67999267578125
+  },
+  "MRK": {
+    "sector": "Health Care",
+    "volatility": 0.2716933991624311,
+    "last_close": 80.30000305175781
+  },
+  "DVA": {
+    "sector": "Health Care",
+    "volatility": 0.3310903183822922,
+    "last_close": 132.0800018310547
+  },
+  "FFIV": {
+    "sector": "Information Technology",
+    "volatility": 0.28724112713276556,
+    "last_close": 326.4700012207031
+  },
+  "JKHY": {
+    "sector": "Financials",
+    "volatility": 0.21403337306990441,
+    "last_close": 159.7899932861328
+  },
+  "MCO": {
+    "sector": "Financials",
+    "volatility": 0.2611890164809015,
+    "last_close": 516.0499877929688
+  },
+  "KDP": {
+    "sector": "Consumer Staples",
+    "volatility": 0.19801657733642755,
+    "last_close": 34.810001373291016
+  },
+  "MKTX": {
+    "sector": "Financials",
+    "volatility": 0.28063261030074144,
+    "last_close": 188.22000122070312
+  },
+  "AOS": {
+    "sector": "Industrials",
+    "volatility": 0.2522349295350885,
+    "last_close": 71.33000183105469
+  },
+  "EMN": {
+    "sector": "Materials",
+    "volatility": 0.3905323903055017,
+    "last_close": 63.41999816894531
+  },
+  "ESS": {
+    "sector": "Real Estate",
+    "volatility": 0.25562338928542566,
+    "last_close": 253.99000549316406
+  },
+  "MPWR": {
+    "sector": "Information Technology",
+    "volatility": 0.6431629218104224,
+    "last_close": 840.5599975585938
+  },
+  "WST": {
+    "sector": "Health Care",
+    "volatility": 0.6411681288234096,
+    "last_close": 239.89999389648438
+  },
+  "IR": {
+    "sector": "Industrials",
+    "volatility": 0.3242883261572453,
+    "last_close": 78.43000030517578
+  },
+  "DVN": {
+    "sector": "Energy",
+    "volatility": 0.41158422434187486,
+    "last_close": 33.31999969482422
+  },
+  "HCA": {
+    "sector": "Health Care",
+    "volatility": 0.28233942705383314,
+    "last_close": 390.30999755859375
+  },
+  "ATO": {
+    "sector": "Utilities",
+    "volatility": 0.17295937328536526,
+    "last_close": 165.72000122070312
+  },
+  "NDSN": {
+    "sector": "Industrials",
+    "volatility": 0.288664607247495,
+    "last_close": 215.7899932861328
+  },
+  "BG": {
+    "sector": "Consumer Staples",
+    "volatility": 0.28795366822163404,
+    "last_close": 82.5199966430664
+  },
+  "AIZ": {
+    "sector": "Financials",
+    "volatility": 0.2740629962566568,
+    "last_close": 209.4199981689453
+  },
+  "FSLR": {
+    "sector": "Information Technology",
+    "volatility": 0.6210909987301951,
+    "last_close": 184.72999572753906
+  },
+  "PG": {
+    "sector": "Consumer Staples",
+    "volatility": 0.18489681473112926,
+    "last_close": 155.08999633789062
+  },
+  "ROL": {
+    "sector": "Industrials",
+    "volatility": 0.20937427675840045,
+    "last_close": 57.880001068115234
+  },
+  "WEC": {
+    "sector": "Utilities",
+    "volatility": 0.168024110761319,
+    "last_close": 109.43000030517578
+  },
+  "ORCL": {
+    "sector": "Information Technology",
+    "volatility": 0.4371683142155941,
+    "last_close": 253.86000061035156
+  },
+  "TRV": {
+    "sector": "Financials",
+    "volatility": 0.2493041858019819,
+    "last_close": 263.92999267578125
+  }
+}
